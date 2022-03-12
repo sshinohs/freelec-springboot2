@@ -1,7 +1,6 @@
 package com.sshinohs.stock.ml.web;
 
 import org.junit.jupiter.api.Test;
-import org.mockito.Mock;
 import org.springframework.mock.env.MockEnvironment;
 
 import static org.assertj.core.api.Assertions.assertThat;
